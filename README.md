@@ -1,8 +1,4 @@
-TEAM :-
-Tanjil vhora- 24BCA273
-Asmita Turate- 24BCA257
-Aaryan Soni- 24BCA241
-Prerak Patel- 24BCA159
+
 
 1. Project Title & Description
 
